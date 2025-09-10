@@ -1,16 +1,12 @@
-## Hi there 👋
+## Olá, eu sou a Adriele!
+Sou estudante de Técnico em Informática e estou aprendendo programação.
 
-<!--
-**Elle-Silva/Elle-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tecnologias que estou aprendendo:
+- Python  
+- HTML, CSS e JavaScript  
+- Git e GitHub  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivos atuais:
+- Melhorar minhas habilidades em programação  
+- Criar projetos práticos para portfólio  
+- Aprender desenvolvimento web  
