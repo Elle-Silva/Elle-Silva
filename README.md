@@ -1,12 +1,12 @@
 ## Olá, eu sou a Adriele!
 Sou estudante de Técnico em Informática e estou aprendendo programação.
 
-## 💻 Tecnologias que estou aprendendo:
+## Estou aprendendo:
 - Python  
-- HTML, CSS e JavaScript  
+- HTML, CSS, PHP e JavaScript  
 - Git e GitHub  
 
-## 🎯 Objetivos atuais:
+## Objetivos atuais:
 - Melhorar minhas habilidades em programação  
 - Criar projetos práticos para portfólio  
 - Aprender desenvolvimento web  
